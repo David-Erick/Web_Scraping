@@ -15,3 +15,5 @@ print(f"|      A temperatura em Recife é: {temperatura.get_text()}C   |")
 print("|            by: ClimaTempo              |")
 print("|                                        |")
 print("------------------------------------------")
+
+#Esse projeto é completamente para fins didáticos sem nenhum fim lucrativo ou tentativa de copiar sites
