@@ -15,7 +15,6 @@ Este repositório contém um script Python que:
 * Faz requisições a URLs.
 * Analisa o conteúdo HTML da página.
 * Extrai dados relevantes de forma automatizada.
-* Salva os resultados de maneira estruturada (imagine em CSV ou JSON).
 
 O objetivo desse projeto é demonstrar os conceitos básicos de web scraping e servir de base para coleta de dados de sites públicos.
 
@@ -54,8 +53,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-4. Os dados extraídos serão salvos no formato que você definiu (CSV/JSON/etc.).
 
 ---
 
