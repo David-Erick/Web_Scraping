@@ -1,7 +1,3 @@
-Aqui está um **README simples e profissional** que você pode usar no seu projeto **Web_Scraping** no GitHub. Ajustei com base na estrutura básica típica (um `main.py`, `requirements.txt`, etc.) — você pode adaptar depois com mais detalhes específicos do seu código.
-
----
-
 # 📊 Web_Scraping
 
 Um projeto em Python para **raspar dados de páginas web** de forma automatizada. O web scraping é uma técnica usada para coletar informações disponíveis publicamente na internet quando **não há uma API oficial** ou quando os dados estão disponíveis apenas em HTML. ([Scrapeless][1])
